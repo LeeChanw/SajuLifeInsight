@@ -25,9 +25,8 @@ export default defineConfig({
   },
   root: path.resolve(import.meta.dirname, "client"),
 build: {
-  outDir: "dist", // 경로 줄이기
-  emptyOutDir: true,
-},
+  outDir: path.resolve(import.meta.dirname, "client", "dist"),
+}
   server: {
     fs: {
       strict: true,
