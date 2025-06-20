@@ -116,7 +116,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-primary text-white py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-sm opacity-80 mb-2">© 2024 운명의 네 기둥 - 전통 명리학 전문 상담</p>
+          <p className="text-sm opacity-80 mb-2">© 2025 운명의 네 기둥 - 전통 명리학 전문 상담</p>
           <p className="text-xs opacity-60">
             * 이 결과는 전통 명리학 이론에 기반한 참고 자료입니다. 개인의 노력과 선택이 운명을 만들어갑니다.
           </p>
